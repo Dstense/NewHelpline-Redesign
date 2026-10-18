@@ -1,6 +1,6 @@
 # NewHelpline — Candidate Recruitment Website
 
-A responsive website explaining NewHelpline's recruitment purpose and guiding candidates and employers to the right enquiry path. The design preserves the original orange, blue, pale-blue and white brand palette.
+A responsive NewHelpline careers and company-information website. It introduces the company’s local-search and discovery focus while guiding candidates and employers to relevant enquiry paths. The design preserves the orange, blue, pale-blue and white brand palette.
 
 ## Pages
 
@@ -9,7 +9,7 @@ A responsive website explaining NewHelpline's recruitment purpose and guiding ca
 
 ## What the website communicates
 
-NewHelpline supports candidate registration and employer hiring enquiries. Candidates can share their qualifications, skills and job preferences; employers can describe the roles they need to fill. The information provides a starting point for recruitment conversations where a suitable opportunity may exist. The website does not currently publish live vacancies or guarantee interviews or placements.
+Public company information describes NewHelpline Services as a B2B/B2C local-search business focused on helping people find products, services and companies, with a stated direction toward AI-enabled discovery, relevant matches and offers. The careers site also supports candidate profiles and employer hiring enquiries. The website does not currently publish live vacancies or guarantee interviews or placements.
 
 ## Features
 
