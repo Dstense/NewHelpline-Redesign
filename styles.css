@@ -130,3 +130,34 @@ main > .section:not(.what-we-do-section){
   main > .section:not(.what-we-do-section){padding-top:70px;padding-bottom:70px}
   .faq-section{padding:62px 18px 68px}
 }
+
+
+/* Slim, low-contrast form field borders */
+.application-card input:not([type=checkbox]),
+.application-card select,
+.application-card textarea,
+.form-content input:not([type=checkbox]),
+.form-content select,
+.form-content textarea{
+  border:1px solid #DCE6EC;
+  box-shadow:none;
+}
+.application-card input:not([type=checkbox]):focus,
+.application-card select:focus,
+.application-card textarea:focus,
+.form-content input:not([type=checkbox]):focus,
+.form-content select:focus,
+.form-content textarea:focus{
+  border:1px solid #8DB7CF;
+  outline:none;
+  box-shadow:0 0 0 2px rgba(17,112,171,.06);
+}
+.application-card input:not([type=checkbox]):focus-visible,
+.application-card select:focus-visible,
+.application-card textarea:focus-visible,
+.form-content input:not([type=checkbox]):focus-visible,
+.form-content select:focus-visible,
+.form-content textarea:focus-visible{
+  outline:2px solid rgba(17,112,171,.28)!important;
+  outline-offset:1px!important;
+}
